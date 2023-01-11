@@ -9,4 +9,4 @@ When the user searches for a particular fruit, and if its available in the datab
   3.  CSS3
   
   # **Preview:-**
-  [Check here for the recommendations](https://snd4q0.csb.app/)
+  [Click here and search for your favourite fruit emoji](https://snd4q0.csb.app/)
