@@ -8,5 +8,5 @@ When the user searches for a particular fruit, and if its available in the datab
   2.  HTML5
   3.  CSS3
   
-  #**Preview:-
+  #**Preview:-**
   [Check here for the recommendations](https://snd4q0.csb.app/)
